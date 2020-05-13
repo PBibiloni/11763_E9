@@ -2,7 +2,7 @@
 
 Se plantean los siguientes objetivos:
 
-1. Estudia el dataset brain [brain_size.csv](https://www3.nd.edu/~busiforc/handouts/Data%20and%20Stories/correlation/Brain%20Size/brainsize.html)
+1. Estudia el dataset [brain_size.csv](https://www3.nd.edu/~busiforc/handouts/Data%20and%20Stories/correlation/Brain%20Size/brainsize.html)
 2. Determina si el volumen del cerebro de los hombres es significativamente mayor que el de las mujeres.
     * Establece la hipótesis nula, la hipótesis alternativa y el nivel de significancia.
     * Establece cuál es el test más adecuado.
